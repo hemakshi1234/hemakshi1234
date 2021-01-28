@@ -3,12 +3,19 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Hemakshi Pandey</h1>
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+
 <h3 align="center">A passionate developer from India. I am an undergraduate pursuing computer science engineering at BPIT. I have a strong penchant for learning about new technologies. I am an active IEEE volunteer and love to participate in various technical events.</h3>
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hemakshi1234&label=Profile%20views&color=0e75b6&style=flat" alt="hemakshi1234" /> </p>
 
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hemakshi1234" alt="hemakshi1234" /></a> </p>
+
+
 
 - ⚡ Fun fact **I love to play electronic keyboard. Apart from this, I like to paint and read novels.**
 
