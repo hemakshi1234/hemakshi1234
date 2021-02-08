@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Hemakshi Pandey</h1>
 <br>
 <br>
-<img align="right" alt="Coding" width="400"  height="200" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+<img align="right" alt="Coding" width="400"  height="240" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 <h3 align="center">A passionate developer from India. I am an undergraduate pursuing computer science engineering at BPIT. I have a strong penchant for learning about new technologies. I am an active IEEE volunteer and love to participate in various technical events.</h3>
 
