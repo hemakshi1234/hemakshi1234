@@ -6,6 +6,7 @@
 <br>
 <br>
 <img align="right" alt="Coding" width="400"  height="240" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+<br>
 <h3 align="center">A passionate developer from India. I am an undergraduate pursuing computer science engineering at BPIT. I have a strong penchant for learning about new technologies. I am an active IEEE volunteer and love to participate in various technical events.</h3>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hemakshi1234&label=Profile%20views&color=0e75b6&style=flat" alt="hemakshi1234" /> </p>
