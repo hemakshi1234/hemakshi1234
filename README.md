@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="1000" height="400" src="https://www.aiche.org/sites/default/files/images/webinar/math_iStock_000019107351Small.jpg">
+<img align="center" alt="Coding" width="1000" height="400" src="https://platofootnote.files.wordpress.com/2016/05/mathematics.jpg">
 
 ### Hi there 👋
 
